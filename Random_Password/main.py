@@ -1,6 +1,6 @@
 import tkinter as tk
 from random import randint
-from tkinter import messagebox as mb
+
 
 root = tk.Tk();
 root.title("Random Password Generator")
